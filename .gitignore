@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# 编辑器 / Office 临时文件
+*.swp
+~$*
+.idea/
+.vscode/
+
+# 下载中的临时文件
+*.part
+*.crdownload
+*.download
